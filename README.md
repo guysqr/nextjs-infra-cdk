@@ -2,6 +2,8 @@
 
 This project creates all the infrastructure needed to build a deployment process for the Next.js serverless app. It uses the Serverless Next.js component https://github.com/serverless-nextjs/serverless-next.js to do the app deployment.
 
+![What this builds](diagram.png)
+
 ## Deployment pipeline
 
 The CodePipeline pipeline created in this project has two stages
